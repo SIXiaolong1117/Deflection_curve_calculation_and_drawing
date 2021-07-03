@@ -108,6 +108,7 @@ grid on;
 
 #### 得挠曲线图像：
 
+![image](https://github.com/Direct5dom/Deflection_curve_calculation_and_drawing/blob/main/img/re.jpg)
 
 ## 完整程序：
 ```matlab
