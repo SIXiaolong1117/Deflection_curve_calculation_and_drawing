@@ -114,7 +114,7 @@ grid on;
 ```matlab
 % Deflection curve calculation and drawing
 % (C)2021 SI-Xiaolong(ustb_stu_sixiaolong@outlook.com)
-% MIT License(https://mit-license.org/)
+% MIT License
 
 %清理
 clear all
